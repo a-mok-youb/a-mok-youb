@@ -1,6 +1,7 @@
-## Hi there 😊 
-
-### Skills
+<div>
+  <h2 align="center">Hi 👋, I'm Ayoub Amokrane</h2>
+</div>
+Skills
 <table align="center">
   <tr>
     <td>
