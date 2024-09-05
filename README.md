@@ -15,9 +15,7 @@
     <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro Image" width="48">
   </div>
     </td>
-    <td>
-      <p>Front-end</p>
-    </td>
+    
   </tr>
 </table>
 <picture>
