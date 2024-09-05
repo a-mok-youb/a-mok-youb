@@ -2,13 +2,7 @@
 <table align="center">
 	
   <tr>
-    <td>
-      <p>Front-end</p>
-    </td>
-    <td>
-     
-    </td>
-  </tr>
+    
   <tr>
     <td>
  <p>Front-end</p>
