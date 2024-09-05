@@ -1,7 +1,7 @@
 <p align="center">Hi 👋, I'm Ayoub Amokrane</p>
 <table align="center">
 	
-  <tr>
+
     
   <tr>
     <td>
@@ -10,6 +10,9 @@
     <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro Image" width="48">
   </div>
     </td>
+<td>
+<p>Back-end<p>
+</td>
     
   </tr>
 </table>
