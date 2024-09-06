@@ -1,8 +1,5 @@
 <p align="center">Hi 👋, I'm Ayoub Amokrane</p>
 <table align="center">
-	
-
-    
   <tr>
     <td>
  <p>Front-end</p>
