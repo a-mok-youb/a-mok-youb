@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
+
 <!-- List Of Websites-->
 [linkedin]: https://www.linkedin.com/in/adi1090x
 [twitter]: https://www.twitter.com/adi1090x
@@ -10,7 +12,7 @@
 [![ko-fi Badge](https://img.shields.io/badge/-KoFi-ff5c5a?style=flat-square&logo=kofi&logoColor=white)][ko-fi]
 [![Website Badge](https://img.shields.io/badge/Website-1d2128?style=flat-square&logo=google-chrome&logoColor=white)][a-mok-youb]
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
+
 </br>
 
 
