@@ -17,6 +17,17 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi1090x&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=a-mok-youb&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=a-mok-youb&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-mok-youb&show_icons=true" />
+</picture>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi1090x&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
