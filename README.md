@@ -1,8 +1,8 @@
 <p align="center">Hi 👋, I'm Ayoub Amokrane</p>
 <!-- List Of Websites-->
 [a-mok-youb]: https://a-mok-youb.dev
-[linkedin]: https://www.linkedin.com/in/ayoub-amokrane
-[twitter]:https://x.com/a_mok_youb
+[linkedin]:  https://www.linkedin.com/in/ayoub-amokrane
+[twitter]: https://x.com/a_mok_youb
 
 [ko-fi]: https://ko-fi.com/adi1090x
 
