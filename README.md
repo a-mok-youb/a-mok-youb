@@ -1,9 +1,9 @@
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
+<img align="center" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 
 <!-- List Of Websites-->
 [linkedin]: https://www.linkedin.com/in/adi1090x
 [twitter]: https://www.twitter.com/adi1090x
-[github]: https://www.github.com/adi1090x
+
 
 ### <samp>&gt; Hi there, I'm <a href="https://www.twitter.com/adi1090x" target="_blank">Amokrane Ayoub</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
