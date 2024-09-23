@@ -32,5 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=a-mok-youb&show_icons=true" />
 </picture>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-mk-youb&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </p>
