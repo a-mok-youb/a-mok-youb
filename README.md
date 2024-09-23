@@ -2,7 +2,7 @@
 
 <!-- List Of Websites-->
 [a-mok-youb]: https://www.a-mok.youb.dev
-[linkedin]: https://www.linkedin.com/in/ayoub-amokrane
+[linkedin]: https://www.linkedin.com/in/ayoub-amokrane-35763b272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [twitter]: https://www.twitter.com/adi1090x
 [ko-fi]: https://
 
