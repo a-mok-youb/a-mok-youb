@@ -3,7 +3,7 @@
 <!-- List Of Websites-->
 [a-mok-youb]: https://www.a-mok.youb.dev
 [linkedin]: https://www.linkedin.com/in/ayoub-amokrane-35763b272
-[twitter]: https://www.twitter.com/adi1090x
+[twitter]: https://x.com/a_mok_youb
 [ko-fi]: https://
 
 ### <samp>&gt; Hi there, I'm <a href="https://www.twitter.com/adi1090x" target="_blank">Amokrane Ayoub</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
