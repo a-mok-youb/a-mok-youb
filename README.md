@@ -6,7 +6,7 @@
 [twitter]: https://x.com/a_mok_youb
 [ko-fi]: https://
 
-### <samp>&gt; Hi there, I'm <a href="https://www.twitter.com/adi1090x" target="_blank">Amokrane Ayoub</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://x.com/a_mok_youb" target="_blank">Amokrane Ayoub</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=X&logoColor=white)][twitter]
